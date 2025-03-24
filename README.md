@@ -1,4 +1,6 @@
+# (IMA) Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs
 
+> Note: This is a fork of the original repository for research purposes. Original repository: [mshukor/ima-lmms](https://github.com/mshukor/ima-lmms)
 
 <p align="center">
     <br>
